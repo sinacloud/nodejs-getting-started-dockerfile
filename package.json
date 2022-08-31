@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-getting-started-dockerfile",
+  "description": "getting started with nodejs on sinacloud platform",
+  "version": "0.0.1",
+  "private": true,
+  "author": {
+    "name": "sae",
+    "email": "saemail@sina.cn"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "v18.8.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
